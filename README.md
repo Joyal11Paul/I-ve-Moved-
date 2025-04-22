@@ -1,2 +1,7 @@
-# I-ve-Moved-
-A new github was created! Follow me here: https://github.com/JoyalMPaul
+# ⚠️ I've Moved!
+
+This GitHub account is no longer maintained.
+
+👉 Check out my current work at [https://github.com/your-new-username](https://github.com/your-new-username)
+
+Thanks for visiting!
