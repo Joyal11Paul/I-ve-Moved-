@@ -1,7 +1,12 @@
-# ⚠️ I've Moved!
+# ⚠️ Notice: I've Moved!
 
-This GitHub account is no longer maintained.
+Thanks for stopping by!
 
-👉 Check out my current work at [https://github.com/your-new-username](https://github.com/your-new-username)
+This GitHub account is no longer maintained.  
+You can find all my latest work and active projects on my new GitHub:
 
-Thanks for visiting!
+👉 [https://github.com/JoyalMPaul](https://github.com/JoyalMPaul)
+
+Feel free to follow me there and check out what I’ve been building!
+
+– Joyal
